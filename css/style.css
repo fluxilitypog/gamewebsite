@@ -22,7 +22,7 @@ body {
     overflow: hidden;
 }
 h3 {
-    color: #b0d138;
+    color: #FFFFFF;
 }
 p {
     font-family: "Exo 2";
@@ -238,7 +238,7 @@ img {
 }
 .box__row-cell-info--full-heading {
     line-height: 30px;
-    color: #f6f930;
+    color: #FFFFFF;
     font-size: 30px;
     font-weight: 900;
     letter-spacing: 3px;
@@ -398,7 +398,7 @@ img {
 }
 .box__title-heading {
     position: relative;
-    color: #0892d0;
+    color: #FFFFFF;
     letter-spacing: 3px;
     line-height: 25px;
     font-size: 25px;
@@ -414,7 +414,7 @@ img {
 }
 .box__title-heading span {
     letter-spacing: 6px;
-    color: #f6f930;
+    color: #FFFFFF;
 }
 .box__title-par {
     text-transform: uppercase;
